@@ -22,6 +22,7 @@ function App() {
       style={{
         display: "flex",
         justifyContent: "center",
+        marginTop: 10,
       }}
     >
       <form onSubmit={handleOnSubmit} style={{ width: "40%" }}>
